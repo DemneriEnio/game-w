@@ -1,0 +1,78 @@
+body {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  text-align: center;
+  font-family: helvetica;
+  margin: 0;
+  background-color: #E5E4E2;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+#header {
+  background-color: #34343E;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+#play {
+  margin-top: 30px;
+  border: none;
+  background-color: transparent;
+  border: 1px black solid;
+  border-radius: 15px;
+  font-size: 22px;
+  padding: 10px;
+  outline: none;
+}
+
+#play:hover {
+  background-color: #65000B;
+  color: white;
+}
+
+#how {
+  margin-top: 30px;
+  border: none;
+  background-color: transparent;
+  border: 1px black solid;
+  border-radius: 15px;
+  font-size: 22px;
+  padding: 10px;
+  outline: none;
+  text-decoration: none;
+  color: black;
+}
+
+#how:hover {
+  background-color: #123524;
+  color: white;
+}
+
+#role {
+  width: 80px;
+}
+
+.action{
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  outline: none;
+}
+.kill:hover{
+  background-color: #E62020;
+  color: white;
+}
+.heal:hover{
+  background-color: #03C03C;
+  color: white;
+}
+.foretell{
+  background-color:
+}
